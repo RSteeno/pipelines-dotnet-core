@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://rjsteeno.visualstudio.com/FirstPipeline/_apis/build/status/RSteeno.pipelines-dotnet-core)](https://rjsteeno.visualstudio.com/FirstPipeline/_build/latest?definitionId=3)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
